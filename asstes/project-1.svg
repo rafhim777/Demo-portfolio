@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 380" width="600" height="380">
+  <rect width="600" height="380" fill="#131C27"/>
+  <rect x="30" y="30" width="540" height="60" rx="6" fill="#1C2833"/>
+  <rect x="50" y="50" width="140" height="12" rx="2" fill="#C9A24B" opacity="0.8"/>
+  <rect x="410" y="50" width="140" height="20" rx="4" fill="#28323d"/>
+  <g fill="#3E7C87">
+    <rect x="50" y="220" width="46" height="110" rx="3"/>
+    <rect x="110" y="190" width="46" height="140" rx="3"/>
+    <rect x="170" y="240" width="46" height="90" rx="3"/>
+    <rect x="230" y="160" width="46" height="170" rx="3"/>
+    <rect x="290" y="200" width="46" height="130" rx="3"/>
+  </g>
+  <polyline points="50,150 110,130 170,140 230,100 290,115 350,90" fill="none" stroke="#C9A24B" stroke-width="3"/>
+  <rect x="380" y="130" width="190" height="200" rx="6" fill="#1C2833"/>
+  <circle cx="475" cy="200" r="55" fill="none" stroke="#3E7C87" stroke-width="16" stroke-dasharray="180 345" stroke-linecap="round"/>
+  <circle cx="475" cy="200" r="55" fill="none" stroke="#C9A24B" stroke-width="16" stroke-dasharray="90 345" stroke-dashoffset="-180" stroke-linecap="round"/>
+</svg>
